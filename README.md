@@ -388,3 +388,71 @@ types:
 ### Observational studies: Cohort
 - in a cohort study, epidemiologists collect and analyze various kinds of information about a large group of people over time
     - retrospective or prospective
+
+### Human Research: Experimental studies
+| Type of study/definition | Pros | Cons |  
+|----------|----------|----------| 
+|In experimental studies, cetrain aspects of the diet are changed, and health outcomes are assessed | gold standard = randomized controlled trails (RTCs) | specific inclusion criteria may decrease generalizability |  
+|specific inclusion criteria |  | real life does not have controlled, ideal conditions |
+
+# **9/11/2025**
+
+## Correlation types
+positive correlation: A and B increase or decrease in the same direction  
+
+Negative correlation: A and B increase or decrease in opposite directions  
+
+![alt text](image-6.png)  
+
+## levels of research evidence
+![alt text](image-7.png)  
+
+## Review: what type of study?
+![alt text](image-8.png)  
+a: cross-sectional  
+
+![alt text](image-9.png)  
+a: cohort  
+
+![alt text](image-10.png)  
+a: human (clinical) trial  
+
+## Review: what type of correlation?
+![alt text](image-11.png)  
+a: positive correlation  
+
+![alt text](image-12.png)  
+a: postitive correlation (note that positive correlation does not always mean positive outcome)
+
+## **Nutrition info: fact or fiction**
+
+### Features of unreliable sources of nutrition info
+1. promises of quick and easy remedies  
+2. claims that sound too good to be true  
+3. scare tactics  
+4. attacks on conventional scientists and nutrition experts  
+5. testimonials  
+6. promotion of benefits while overlooking risks  
+7. vague, meaningless, or scientific-sounding terms  
+8. vague sources  
+9. pseudoscience  
+10. disclaimers  
+
+### Finding credible sources of nutrition info
+- motivation  
+    - health promotion vs selling something  
+    - .com vs .org or .gov  
+    - nationally recognized health organization?  
+- source  
+    - nutrition expert vs PhD  
+    - reviewed by experts vs blogs or magazines  
+- evidence based?  
+    - references to pertinent, high quality, peer reviewed research?  
+        - population similar to me?  
+
+## Review : credible sources of nutrition info
+Which of the following is NOT an indication that the source of information is credible?  
+a) ***Provides testimonials***  
+b) References peer-reviewed journal articles  
+c) Can be found at a .edu website  
+d) Is written by a registered dietitian  
