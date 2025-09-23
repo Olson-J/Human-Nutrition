@@ -225,7 +225,7 @@ skim milk has 300 mg calcium / 80 kcals = 3.75 mg Calcium per kcal
 - amount of energy (kcals) a food provides per given weight of food  
 - energy dense food often have empty kcals (kcals from unhealthy solid fats and added sugars)
 
-# **9/9/2025**, ch 1 cont.
+## **9/9/2025**, ch 1 cont.
 participation points (must have 100 pts by end of semester) can be from attendance, cooking demos on campus (have to register for these), or a 1 on 1 dietician consultation (also have to sign up for a time slot). Can only get points for 1 demo/session a month.
 
 ## Calendar check in: 
@@ -395,7 +395,7 @@ types:
 |In experimental studies, cetrain aspects of the diet are changed, and health outcomes are assessed | gold standard = randomized controlled trails (RTCs) | specific inclusion criteria may decrease generalizability |  
 |specific inclusion criteria |  | real life does not have controlled, ideal conditions |
 
-# **9/11/2025**
+## **9/11/2025**
 
 ## Correlation types
 positive correlation: A and B increase or decrease in the same direction  
@@ -456,3 +456,431 @@ a) ***Provides testimonials***
 b) References peer-reviewed journal articles  
 c) Can be found at a .edu website  
 d) Is written by a registered dietitian  
+
+
+# **Ch. 3 Basis of a healthy diet**
+
+## Nutrient Requirements
+- smallest amount of a nutrient that maintains a defined level of nutritional health  
+- consuming the recommended amounts of nutrients can support maintenance of nutrient storage and help prevent deficiency  
+- many factors can influence nutrient needs  
+    - age  
+    - sex  
+    - lifestyle  
+    - general health status  
+    - illness  
+
+## Nutrient and calorie standards  
+**Dietary Reference Intakes (DRI)**  
+Nutrition experts review thousands of research studies to develop standards for energy, nutrients, etc. that best support health.  
+
+### Important notes about DRI
+- varies by age, gender, life stage  
+- aim to reduce risk of chronic disease and avoid unhealthy excess  
+- should be used as a *guide* for overall intake of food over time  
+
+
+- estimated average requirement (**EAR**)  
+    - meets the needs of 50% of population  
+    - used to calculate RDA  
+- Recommended Dietary Allowance (**RDA**)  
+    - EAR + a margin of safety  
+    - meets the needs of 97%-98% of the population  
+- Tolerable Upper Level Intake (**UL**)  
+    - exceeding this amount may result in toxicity  
+    - may be exceeded with supplements  
+    - not likely to be exceeded with food  
+- Adequate Intake (**AI**)  
+    - not enough research to establish a DRI  
+    - amount that healthy populations consume  
+- Estimated Energy Requirement (**EER**)  
+    - average dietary energy intake (kcals/day) that will maintain energy balance in a person who has a healthy body weight and level of physical activity  
+
+### Acceptable Macronutrient Distribution Range (AMDR)
+
+Range of intakes for the energy nutrients that provide adequate energy and nutrients and reduce the risk of chronic disease.  
+
+- carbs: 45-65% of kcals  
+- fat: 20-35% of kcals  
+- proteins: 10-35% of kcals  
+
+If John needs 2300 kcals/day, according the AMDR:  
+- 2300 * 0.2 = 460 kcals (low end)   
+- 2300 * 0.35 = 806 kcals (high end)  
+- John should be getting 460-806 kcals from fat  
+
+
+Steven needs 4000 kcals each day. How many kcals from protein?
+
+4000 * .10 = 400 kcals from protein  
+4000 * .35 = 1400 kcals from protein  
+
+How many grams of protein should he consume?  
+400 kcals / 4 = 100 grams  
+1400 kcals / 4 = 350 grams
+
+
+## Major food groups  
+- grains 
+- dairy  
+- protein  
+- fruits  
+- vegetables  
+- oils (USDA doesn't count as a separate food group)  
+
+### Enrichment and fortification  
+- enrichment is the replacement of some nutrients that were removed during processing  
+    - iron (mineral, all the rest in list are vitamins), thiamin, riboflavin, niacin, and folic acid added back into grain products such as white flour or white rice  
+    - taken out, then added back in  
+- fortification is the addition of nutrients to any food  
+    - calcium to orange juice  
+    - vitamin A and D to milk  
+    - vitamins and minerals to ready-to-eat cereals  
+    - stuff that wasn't there originally, but is added in as a helpful extra
+
+## 2020 - 2025 dietary guidelines  
+1. follow healthy eating at every stage of life  
+2. customize and enjoy nutrient-dense food and beverage choices that reflect personal preferences, cultural traditions, and budgetary considerations  
+3. focus on meeting food group needs with nutrient dense foods and beverages, and stay within calorie limits  
+4. limit foods and beverages high in added sugars, saturated fat, and sodium, and limit alcoholic beverages
+
+![alt text](image-13.png)
+
+### Major sources of empty kcals  
+- cakes, cookies, pastries  
+- sugar sweetened beverages  
+- cheese and pizza  
+- ice cream  
+- fatty meats such as sausage, bacon, hot dogs, and ribs  
+
+## Food labels  
+- found on most foods other than:  
+    - fresh produce and meats  
+    - those contributing few nutrients  
+        - tea  
+        - coffee  
+        - spices  
+    - foods produced by small businesses  
+
+### Daily values (DVs)
+- set of nutrient intake standards developed for labeling purposes  
+- the % DV tells you how much a nutrient in a serving of food contributes to a daily diet  
+    - 2000 kcal diet is used as the reference  
+
+### Ingredient List  
+- **must** list all ingredients  
+- listed in descending order by weight  
+- gives insight into the nutritional quality of the product  
+
+### Ingredients to watch for  
+|sugars| whole grains|  
+|------|--------|  
+|sugar| oats|  
+|high fructose corn syrup |whole grain wheat |  
+|honey | brown rice|  
+| sucrose| buckwheat|  
+| fructose| bulgur|  
+| maltose| popcorn|  
+|malt syrup | |  
+| rice syrup| |  
+
+
+note: some rounding is allowed on food labels  
+
+### Other label components  
+- serving size + servings per container  
+- required nutrients  
+    - total fat  
+        - saturated fat  
+        - trans fat  
+    - cholesterol  
+    - sodium  
+    - total carbohydrate    
+        - fiber  
+        - total sugars  
+        - added sugars  
+    - protein  
+    - vitamin D  
+    - potassium  
+    - calcium  
+    - iron  
+
+### claims on labels
+- **nutrient claims:** statements that characterize the quantity of a nutrient in a food  
+- examples  
+    - "rich in calcium"  
+    - "high in fiber"   
+- **health claims:** statements that characterize the relationship between a nutrient in a food and a disease  
+- example  
+    - diets low in sodium may reduce risk of high blood pressure  
+- **structure function claims:** statements that characterize the relationship between nutrient and its role in the body  
+- ***do not require FDA approval***  
+- example  
+    - calcium builds strong bones  
+
+
+# **ch 4 human digestion, absorbtion, and transportation**  
+
+## overview of digestive system  
+### primary roles of the digestive system:  
+- break down food into nutrients (digestion)  
+- absorbtion of nutrients from digestive tract into the blood or lymph for transport to cells  
+- elimination of solid waste products  
+
+### Gastrointestinal (GI) tract  
+- flexible muscular tube that extends from the mouth to the anus  
+- sphincters (circular muscles that are able to close a body opening) help regulate the flow of food particles  
+- the innermost layer is called the mucosa  
+- the empty space inside this tube is called the lumen  
+![gi tract model](image-16.png)  
+## order of the GI tract  
+- mouth  
+    - epiglottis (covers tracea, lets you swallow)  
+    - upper esophageal sphincter  
+- esophagus  
+    - lower esophageal sphincter (sometimes also called the cardiac sphincter)  
+- stomach  
+    - pyloric sphincter  
+- small intestine (*d*uodenum, *j*ejunum, *i*leum)  
+    - ileocecal sphincter  
+- large intestine (colon)  
+    - cecum  
+    - rectum  
+    - anus  
+### accessory organs 
+- liver  
+- gall bladder  
+- pancreas  
+![alt text](image-17.png)  
+
+## digestion of foods into nutrients  
+- mechanical digestion  
+    - physically breaking down food into smaller pieces  
+- chemical digestion  
+    - breaking chemical bonds, requires enzymes  
+    - digestive enzymes: proteins found in digestive juices that act on food substance, causing them to break down into simpler compounds at a rapid rate  
+    - names often end in "-ase"
+![alt text](image-18.png)
+
+### mouth 
+- mechanical digestion  
+    - chewing  
+- chemical digestion  
+    - enzyme: salivary amylase (CHO)  
+    - enzyme: lingual lipase (FAT)  
+- chewed up food + saliva = bolus  
+
+### esophagus 
+- swallowing  
+- reflux occurs when the lower esophageal sphincter does not stay closed and HCL irritates the esophagus  
+- peristalsis: waves of muscular contractions that help move material through the esophagus
+![alt text](image-19.png)  
+
+### stomach
+- size: 1 cup (empty) - 1 gallon (very full, usually throw up before hitting this point)  
+- lower esophageal sphincter  
+- bolus + gastric juices = chyme  
+- pyloric sphincter  
+- mechanical digestion  
+    - peristalsis via strong gastric muscles  
+- chemical digestion  
+    - hydrochloric acid (HCL) denatures protein  
+    - pepsinogen --> pepsin, breaks down protein  
+    - gastric lipase breaks down fat  
+
+### pH  
+![alt text](image-20.png)  
+![alt text](image-21.png)  
+
+### gastric secretions  
+- mucous cells  
+    - mucin + water = mucous (protects the lining of the stomach)  
+- chief cells  
+    - lipase and pepsinogen  
+- parietal cells  
+    - HCL, intrinsic factor (needed for absorbtion of b12)  
+- G-cells  
+    - gastrin, hormone that simulates stomach motility and secretions  
+    - targets parietal cells and chief cells  
+
+![alt text](image-22.png)
+
+### small intestine  
+where most of the digestion/absorbtion of nutrients happens
+- duodendum  
+    - 10 inches  
+- jejunum  
+    - 3-5.5 feet  
+- ileum  
+    - 5-9 feet  
+- ileocecal sphincter  
+
+DJI = dont jump in  
+
+- mechanical digestion  
+    - peristalsis  
+    - segmentation  
+- chemical digestion  
+    - enzymes secreted from the lining of the small intestince [mucosa] (eg lactase)  
+    - secretions from accessory organs  
+
+![alt text](image-23.png)
+
+### accessory organs  
+- liver  
+    - makes bile  
+- gallbladder  
+    - stores bile  
+- pancreas  
+    - bicarbonate   
+        - neutralize acidic stomach contents  
+    - amylase (CHO)  
+    - peptidases (PRO)  
+    - lipase (FAT)  
+
+## Hormonal regulation of digestion  
+prompt | hormone | result
+![alt text](image-24.png)  
+
+# Exam 1 study
+
+## ch 1 - know
+
+### 1.2 the nutrients  
+six classes of nutrients:  
+- carbs  
+    - major energy source  
+    - maintain blood glucose levels  
+    - eleimante solid waste from gastrointestinal tract (fiber)   
+- lipids (fats and oils)  
+    - major source of energy  
+    - cell development, physical growth  
+    - regulation of body processes (some hormones)  
+    - growth and development of brain  
+    - absorbtion of fat soluable vitamins  
+- proteins  
+    - formation of structural (muscle fibers) and functional (enzymes) components  
+    - cell development, growth, and maintenance  
+    - regulation of body processes (some hormones)  
+    - transportation of substances in the blood  
+    - minor source of energy  
+- vitamins  
+    - regulation of body processes  
+    - immune function  
+    - production and maintenance of cells  
+    - protection against agents that can damage cell components  
+- minerals  
+    - regulation of body processes (fluid balance, energy metabolism)  
+    - formation of some chemical messengers  
+    -  formation of structural/functional components (various substances and tissues)  
+    - cell development, growth, maintenance  
+- water  
+    - maintenance of fluid balance  
+    - regulate temperature  
+    - eliminate wastes  
+    - transport substances 
+    - participates in many chemical reactions  
+
+typically, a body is 50-70% water. In young people most levels are about the same, but young women have less water and protein, and more fat.  
+
+Almost 98% of the body is made up of oxygen, carbon, hydrogen, nitrogen, or calcium.  
+
+|| carbon | hydrogen | nitrogen | oxygen | phosphorus|sulfur | others|   
+|--|--|--|--|--|--|--|--|  
+|carbs| o | o | | o | | | |  
+|lipids | o |o|X|o|X| | |  
+|proteins| o|o|o|o| |X| |  
+|vitamins| o|o|X|o|X|X| cobalt|  
+|minerals| | | | | X|X| sodium, magnesium, potassium, calcium, chromium, iron, copper, zinc, iodine, and others|  
+|water| |o| | o| | |  
+
+o = all nutrients in this class contain this element  
+X = some nutrients in the class contain this element  
+
+organic = contains carbon (carbs, lipids, proteins, vitamins), inorganic = no carbon (water, minerals)  
+
+Essential nutrients are dietary necessities because the body cannot make them (such as water) and a lack results in signs or symptoms of disease. Signs = measurable (rashes, atypical growth, elevated blood pressure) while symptoms = subjective complaints of ill health (dizziness, fatigue, headache).  
+![alt text](image-14.png)  
+
+Conditionally essential nutrients can become essential under certain conditions when the body cannot make adequate amounts (ex: during metabolic disorders, serious diseases, prenatal development)  
+
+Carbs, fats, and proteins are macronutrients (energy sources), while vitamins and minerals are micronutrients. water is not classified as a macronutrient since it doesn't provide energy.  
+
+### 1.3 food as fuel  
+calorie = 1g(mL) water raised by 1 degree C  
+Calorie or kcal = 1L water raised by 1 degree C  
+
+direct calorimetry means to burn the food and measure the energy output.  
+
+| 1 gram of | kcals|  
+|--|--|  
+|carbs| 4|  
+|protein | 4|  
+|fat | 9|  
+|alcohol| 7|  
+
+### 1.4 risk factors  
+Risk factors = attribute/characteristic/exposure that increases a person's chances of developing a chronic disease (such as heart disease, diabetes, cancer).  
+
+Genetic makeup does not entirely determine a person's likelihood of developing these issues, lifestyle is also a large part (unsafe environmental conditions, psychological factors like stress, social determinants of health equity, lack of access of healthcare/food, advanced age, etc).  
+
+Perform 60+ minutes of physical activity for every 8 hours of sedentary activity.  
+
+### 1.5 expert advice  
+registered dietician nutritionist or registered dietician = college trained health care professional with a master's degree. 
+
+### 1.6 concepts 1,2,5  
+#### concept 1
+nutrient dense foods provide more key nutrients (protein, fiber, vitamins, minerals) in relation to total calories per serving, and has little to no solid fats/added sugars/refined starches/sodium.  
+Ex of nutrient dense foods = vegetables, low fat milk, fruits, lean meats, whole grain cereals  
+
+energy dense foods have a kcal to weight ratio of 4+. Fat supplies most energy per gram. These foods also tend to not be water dense.  
+
+foods can be both nutrient and energy dense! like nuts. But a lot of energy dense foods are also kind of empty calories
+#### concept 2  
+variety is important in diet, but so is moderation. A healthy diet meets all the nutritional needs, and *then* can add in the occasional empty calories treat for enjoyment.
+
+myPlate food groups = fruits, grains, vegetables, protein, dairy  
+
+#### concept 5
+malnutrition = body is improperly nourished. This can be from over or under nutrition.  
+
+
+## ch 1 - skim
+
+### 1.1 importance of nutrition  
+important to study nutrition because it is the study of nutrients and how the body uses them. We should be informed about nutritional values, and impact of diet/food choice patterns can have on health.  
+
+### 1.2 phytochemicals table  
+plant made non-nutrients that may have health benefits.  
+![phytochemicals table](image-15.png)  
+
+### 1.5 factors that influence eating  
+- biological and physiological factors: life stage  
+    - young children get pre selected foods from caregivers  
+    - young adults typically branch out as they leave home  
+    - older adults may have health conditions that require changes in food choices  
+- cognitive and psychological factors: learning processes  
+    - past experiences  
+    - cultural practices  
+    - religious teachings  
+    - stress level and mood  
+- environmental factors  
+    - proximity to store/food/cooking  
+    - government policies, food distribution, food marketing  
+
+### 1.6 concepts 3,4,6  
+#### concept 3  
+focusing your diet on primarily minimanlly-processed foods is best when possible, as processing can remove some beneficial nutrients and phytochemicals.  
+Some people have conditions that require them to take supplements to get the needed amounts of nutrients.  
+Note: supplements do not need to be tested before being marketed, and are not regulated as strictly as medications by the FDA.  
+
+each nutrient has a safe intake range (physiological dose = ideal). When taken in high levels, many vitamins behave like drugs and can produce unpleasant and even toxic side effects. Compared to vitamins, most minerals have a vary narrow range of safe intake.  
+
+#### concept 4
+nutrient consumption is not a cure all for health issues. It can help some things like nutrient deficiencies, but diet is only one of many factors that impact a person's long term health.  
+
+#### concept 6  
+Nutrition is a dynamic science that we are constantly learning more about, so recommendations from professionals may change over time.
+
+## ch 2 - know
