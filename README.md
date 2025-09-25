@@ -723,7 +723,8 @@ DJI = dont jump in
 - chemical digestion  
     - enzymes secreted from the lining of the small intestince [mucosa] (eg lactase)  
     - secretions from accessory organs  
-
+    
+goblet cells produce mucus  
 ![alt text](image-23.png)
 
 ### accessory organs  
@@ -738,10 +739,185 @@ DJI = dont jump in
     - peptidases (PRO)  
     - lipase (FAT)  
 
-## Hormonal regulation of digestion  
-prompt | hormone | result
-![alt text](image-24.png)  
+### Hormonal regulation of digestion  
+|prompt | hormone | result|  
+|--|--|--|  
+|food in stomach | gastrin | stomach motility and gastric gland secretion|  
+|acid chyme in the small intestine|secretin|pancreas and liver to release bicarbonate|  
+|fat in small intestine|cholecystokinin (CCK)|sceretion of bile and pancreatic enzymes|  
 
+
+### large intestine (colon)
+- size = 5 feet  
+- time: stool passes through the colon within 12-70 hours  
+- Ileocecal valve  
+- cecum  
+- ascending colon  
+- descending colon  
+- transverse colon  
+- rectum (6 inches)  
+- anus  
+
+![alt text](image-25.png)  
+
+mechanical digestion:  
+- peristalsis  
+- secretion of mucous from goblet cells  
+
+chemical digestion:  
+- fermentation  
+
+![alt text](image-26.png)
+
+## Absorbtion of nutrients  
+- some occurs in the mouth and stomach  
+- most absorbtion of nutrients occurs in the small intestine  
+- villi and microvilli  
+![alt text](image-27.png)  
+
+### absorbtion in the large intestine  
+- absorbtion of water and electolytes takes place in the large intestine  
+- feces is typically 75% water  
+    - remaining material is bacteria and undigested fiber  
+
+nutrient absorbtion can occur by:  
+- simple diffusion  
+- facilitated diffusion  
+- active transport  
+- osmosis  
+- endocytosis  
+
+![alt text](image-28.png)  
+
+## Transport  
+water soluble nutrients and certain fats are absorbed into the capillary network  
+- travel to the liver via the hepatic portal vein  
+![alt text](image-29.png)  
+- water soluble nutrients: intestines --> blood --> liver --> heart --> rest of body
+    - folate  
+    - biotin  
+    - pantothenic acid  
+    - vitamin C  
+    - vitamin b12  
+    - thiamin (b1)  
+    - riboflavin (b2)  
+    - niacin  
+    - pyridoxine (b6)  
+
+- fat soluble nutrients: intestines --> lymph --> heart (blood) --> rest of body  
+    - vitamin A  
+    - D  
+    - E  
+    - K  
+
+## Defecation 
+expulsion of fecal material from the body  
+
+feces: waste matter discharged from the colon  
+
+## Microbes in the digestive tract  
+- the large intestine has vast numbers of various types of bacteria (called the gut microbiota)  
+- having a healthy gut microbiota promotes health  
+- use of antibiotics to fight bacterial infections can affect gut microbiota  
+    - use of probiotics may be beneficial to support restoration of the gut microbiota  
+
+![alt text](image-30.png)  
+- may be affected by diet  
+    - prebiotics: promote growth of beneficial bacteria like fiber  
+    - probiotics: live bacteria that may crowd out bad bacteria in the body  
+        - often used to prevent diarrhea due to antibiotic use  
+        - e.g. yogurt with live cultures, sauerkraut, supplements  
+research regarding probiotics is not conclusive. The gut microbiota is a complex ecosystem, and probiotic needs likely vary from person to person  
+
+- microbes in the digestive tract are beneficial, and functions include:  
+    - metabolize undigested food (fermentation)  
+    - synthesizes short chain fatty acids  
+        - energy used by cells of the colon  
+        - may decrease risk of colon cancer  
+    - produces vitamin K, folate, B6, B12, biotin, and gas  
+
+## common digestive tract disorders  
+- too slow digestion  
+    - constipation  
+    - may be due to IBS  
+- too fast digestion  
+    - diarrhea  
+    - may be due to IBS/IBD  
+- abnormalities in GI wall  
+    - diverticulosis/itis  
+    - hemorrhoids  
+- coming up from the stomach  
+    - vomiting  
+    - GERD  
+- sores in the GI tract  
+    - peptic ulcer  
+    - crohn's disease (auto-immune; whole GI)  
+    - ulcerative colitis  
+
+### Gastroesophageal Reflux disease (GERD)  
+- characteristics  
+    - chronic reflux of stomach acid into the intestine  
+    - may damage the esophagus  
+- prevention/treatment  
+    - lose excess body weight  
+    - do not lie down after eating / elevate the bed  
+    - avoid overeating  
+    - avoid smoking and secondhand smoke  
+    - avoid tight clothing  
+    - avoid dietary triggers  
+        - alcohol  
+        - coffee  
+        - chocolate, peppermint, greasy or spicy foods, tomatoes  
+
+### Vomiting  
+forcible or involuntary emptying of stomach contents through the mouth  
+- avoid solid foods/drink clear liquids until symptoms subside  
+- seek medical help if prolonged or if there is blood present  
+
+### Gastric ulcer  
+- characteristics  
+    - sore in the lining of the stomach or upper small intestine  
+    - pain 2 hours after eating  
+    - helicobacter pylori is responsible for most cases  
+- prevention/treatment  
+    - avoid NSAIDs, alcohol, smoking  
+    - antibiotics + medications to reduce stomach acid production    
+    - avoid spicy foods when an ulcer is present  
+
+### Constipation  
+- characteristics   
+    - infrequent bowel movements (<3/week) and feces that are difficult to eliminate  
+    - risk increased by: antibiotics, medications (including opiates), low fiber diet, low water intake, anxiety, depression, disrupted routines (e.g. surgery or vacation)  
+    - may increase risk for hemorrhoids  
+- prevention/treatment  
+    - increase fiber and water intake  
+    - try fermented foods, probiotic/prebiotic supplements  
+
+### Diarrhea  
+- characteristics   
+    - frequent, watery bowel movements  
+    - decreased nutrient absorbtion  
+    - loss of electrolytes  
+- prevention/treatment  
+    - antidiarrheal medications  
+    - seek medical help for severe cases (especially for children and older adults), or if blood is present for 7 days
+
+### IBS / IBD  
+- IBS = Irritable bowel syndrome  
+- IBD = inflammitory bowel disease  
+![alt text](image-31.png)
+
+### Diverticulosis/itis  
+- diverticulosis: tiny pouches (diverticula) that form in the inner lining of the large intestine and push through weak regions of the colon wall  
+- diverticulitis: inflamed diverticula due ti infection from bacteria or feces  
+![alt text](image-32.png)
+
+## Bile
+chyme is mostly water, so it does not mix with hydrophobic fat well. Bile helps this problem.  
+
+Bile is made in the liver, stored in the gallbladder, and released into the duodenum when fat being present in the small intestine stimulates the production of cholecystokinin (CCK). 
+
+Bile is an emulsiphier because it is amphipathic (one side is hydrophylic [orients towards chyme] and the other is hydrophobic [orients towards fat]). This turns large fat droplets into smaller droplets as the droplets get surrounded by bile and broken down by the lipase present in the chyme.
 # Exam 1 study
 
 ## ch 1 - know
