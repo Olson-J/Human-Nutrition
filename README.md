@@ -1,63 +1,63 @@
 # Human-Nutrition
 # **08/28/2025**
-    exams will be open from tues to sat on the week they are due, get 2 attempts on the final
+exams will be open from tues to sat on the week they are due, get 2 attempts on the final
 
-    ## intuitive eating: finding moderation with food
-    ### why diet mentality doesnt work
-        - externally motiviating instead of intrinsically motiviating
-        - ppl tend to make drastic changes in their food intake and lifestyle, which makes it hard to adjust to
-        - seen as temporary, strict changes that are not meant to be sustainable
-        - focuses on taking away instead of adding to 
-        - label foods as 'good' or 'bad'
-        - don't get to the root of the problem (ex: sedentary lifestyle, causes of overeating (habits, trauma), underlying health issues such as hormone imbalances)
-        - diets are difficult to take on the road, or to upkeep in busy lifestyle 
-        - focuses on weight loss, not wellness. this can lead to more weight being gained than was lost during the diet
+## intuitive eating: finding moderation with food
+### why diet mentality doesnt work
+    - externally motiviating instead of intrinsically motiviating
+    - ppl tend to make drastic changes in their food intake and lifestyle, which makes it hard to adjust to
+    - seen as temporary, strict changes that are not meant to be sustainable
+    - focuses on taking away instead of adding to 
+    - label foods as 'good' or 'bad'
+    - don't get to the root of the problem (ex: sedentary lifestyle, causes of overeating (habits, trauma), underlying health issues such as hormone imbalances)
+    - diets are difficult to take on the road, or to upkeep in busy lifestyle 
+    - focuses on weight loss, not wellness. this can lead to more weight being gained than was lost during the diet
 
-    ### intuitive eating focuses on additions rather than subtractions
-        - adding eating times (optimal every 3-4 hours)
-            even if it a small amount of food, this can help people feel properly fueled
-            this can also depend on the person, and how much they eat at once. some people feel better with more small meals, and some would rather have a few larger ones
-        - variety helps the food feel interesting and exciting
-            meals = 3 food groups
-            snacks = 2 food groups
-        - fruits and veggies tend to be underrepresented in a lot of american's diets
-        - water! chronic dehydration is A Thing
-        - physical activity, 1 hr for every 8 hours sedentary
-    
-    ## understanding hunger and fullness
-        0   : empty  
-        1.5 : ravenous  
-        3   : weak  
-        4   : pangs  
-        5   : neutral  
-        6.5 : satisfied  
-        8   : full  
-        9   : stuffed  
-        10  : sick  
+### intuitive eating focuses on additions rather than subtractions
+    - adding eating times (optimal every 3-4 hours)
+        even if it a small amount of food, this can help people feel properly fueled
+        this can also depend on the person, and how much they eat at once. some people feel better with more small meals, and some would rather have a few larger ones
+    - variety helps the food feel interesting and exciting
+        meals = 3 food groups
+        snacks = 2 food groups
+    - fruits and veggies tend to be underrepresented in a lot of american's diets
+    - water! chronic dehydration is A Thing
+    - physical activity, 1 hr for every 8 hours sedentary
 
-        goal is to stay between 3-7, and going to one of the extremes can cause you to swing to the other extreme
+## understanding hunger and fullness
+    0   : empty  
+    1.5 : ravenous  
+    3   : weak  
+    4   : pangs  
+    5   : neutral  
+    6.5 : satisfied  
+    8   : full  
+    9   : stuffed  
+    10  : sick  
 
-    ### strategies to notice fullness
-        - the food stops tasting as good, not getting enjoyment from it, texture starts to bother you
-        - take mini breaks when eating
-        - learn from history (if you get a serving of food and feel too full after eating it, make a mental note that next time you would prefer a smaller serving)
-    
-    ### emotional eating
-        ask yourself:
-            am I hungry?
-            how am I feeling?
-            what do I need?
-        it's not that we can never eat when we aren't hungry, but it shouldn't be a frequent thing or get to the point of impacting our feelings of wellness
-        top reasons for emotional eating: boredom, stress, lonely, tired, want a reward, habits/environmental queues  
+    goal is to stay between 3-7, and going to one of the extremes can cause you to swing to the other extreme
 
-    **power snacks:** ideally want to have a protein (lasting energy) and a carb (quick energy)
+### strategies to notice fullness
+    - the food stops tasting as good, not getting enjoyment from it, texture starts to bother you
+    - take mini breaks when eating
+    - learn from history (if you get a serving of food and feel too full after eating it, make a mental note that next time you would prefer a smaller serving)
 
-    *key note:* food does not have a moral value! there are not 'good' vs 'bad' foods, and you are not good or bad for eating foods. All foods can have a place in a balanced diet, but some are 'sometimes' foods that do not provide as much value to you
+### emotional eating
+    ask yourself:
+        am I hungry?
+        how am I feeling?
+        what do I need?
+    it's not that we can never eat when we aren't hungry, but it shouldn't be a frequent thing or get to the point of impacting our feelings of wellness
+    top reasons for emotional eating: boredom, stress, lonely, tired, want a reward, habits/environmental queues  
 
-    ### body acceptance
-        negative filtering: focusing on a negative aspect to the point that is drowns out all other things
-            tip: leave with one good thing (before starting your day, or each time you think about your body, end with a positive thing)
-            focus on what your body can do
+**power snacks:** ideally want to have a protein (lasting energy) and a carb (quick energy)
+
+*key note:* food does not have a moral value! there are not 'good' vs 'bad' foods, and you are not good or bad for eating foods. All foods can have a place in a balanced diet, but some are 'sometimes' foods that do not provide as much value to you
+
+### body acceptance
+    negative filtering: focusing on a negative aspect to the point that is drowns out all other things
+        tip: leave with one good thing (before starting your day, or each time you think about your body, end with a positive thing)
+        focus on what your body can do
 
 # **09/02/2025** ch 1
 
@@ -730,6 +730,7 @@ goblet cells produce mucus
 ### accessory organs  
 - liver  
     - makes bile  
+    - synthesizes cholesterol  
 - gallbladder  
     - stores bile  
 - pancreas  
