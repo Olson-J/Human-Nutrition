@@ -1,0 +1,1 @@
+started guided notes in class, see chapter pdf summaries
